@@ -1,4 +1,4 @@
-#synchronous-Machines-OCC-and-SCC
+**synchronous-Machines-OCC-and-SCC**
 A 2-pole, 3-phase, star connected, turbo-alternator rated at 2500 KVA, 6600 V, 50 Hz. 
 The armature resistance and leakage reactance per phase are 0.07 Ω and 0.9 ohm, 
 respectively. The friction and windage losses are 20 kW, and its core losses are 12 kW.  
